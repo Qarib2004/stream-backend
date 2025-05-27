@@ -1,0 +1,17 @@
+
+  Id     Duration CommandLine
+  --     -------- -----------
+   1        0.134 try { . "c:\Users\user\AppData\Local\Programs\Microsoft VS Code\resources…
+   2       27.129 nest g res core/prisma --ni-spec
+   3       34.901 nest g res core/prisma --no-spec
+   4        8.150 npm install --save-dev @nestjs/schematics
+   5        5.842 nest g res core/prisma --no-spec
+   6        0.251 yaml add @nestjs/graphql @nestjs/apollo @apollo/server graphql @nestjs/co…
+   7     1:17.520 yarn add @nestjs/graphql @nestjs/apollo @apollo/server graphql @nestjs/co…
+   8        0.058 yarm start:dev
+   9        5.236 yarn add cookie-parser express-session connect-redis ioredis
+  10       49.989 nest g res core/redis --no-spec
+  11       15.760 docker compose up -d
+  12        0.042 history 50
+  13        0.057 Get-History | Select-Object -Last 50
+
